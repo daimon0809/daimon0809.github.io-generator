@@ -1,0 +1,12 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/themes/newsroom"]
+	path = themes/themes/newsroom
+	url = https://github.com/onweru/newsroom.git
+[submodule "themes/hugo-theme-iris"]
+	path = themes/hugo-theme-iris
+	url = https://github.com/peaceiris/hugo-theme-iris.git
