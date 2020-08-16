@@ -7,3 +7,4 @@ theme = "maupassant"
   [markup.highlight]
     lineNos = true
     style = "github"
+
